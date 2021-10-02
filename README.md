@@ -1,4 +1,4 @@
-# TeinacBot
+# TeinacBot (Base)
 ## 🛠️ Características
 
 ### Bot completo
@@ -8,6 +8,8 @@ Lista de funciones:
 *   🇪🇸 Multilenguaje (Español e Inglés)
 *   ⚙️ Configuración en Mongo por servidor (prefijo, canales de escucha, etc...)
 *   😀 Comandos únicos en embeds
+
+Acuerdo que en este código solo está la base para crear tu propio bot como el mio.
 
 
 
@@ -40,4 +42,4 @@ Si quieres contribuir, siéntete libre de bifurcar el repositorio y solicitar un
 
 ## 📜 Licencia
 
-TeinacBot esta licenciado bajo la licencia GPL 3.0. Revisa el archivo `LICENSE` para más información. Si planeas usar cualquier parte de este código base en tu propio bot, estaría agradecido si se me incluyese en los créditos.
+TeinacBot esta licenciado bajo la licencia GPL 3.0. Revisa el archivo `LICENSE` para más información. Si planeas usar cualquier parte de este código base en tu propio bot, estaría agradecido si se me incluyese en los créditos. 
